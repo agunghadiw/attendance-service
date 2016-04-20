@@ -1,0 +1,2 @@
+set CLASSPATH=%CLASSPATH%;D:\Project\Java\web\workspace_luna_SR2\attendance-service-1.0\lib\RmiJdbc.jar
+java org.objectweb.rmijdbc.RJJdbcServer -port 1234 -lp 1235
